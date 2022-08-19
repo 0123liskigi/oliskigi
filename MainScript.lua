@@ -5,3 +5,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/0123liskigi/oliskigi/
 loadstring(game:HttpGet("https://raw.githubusercontent.com/0123liskigi/oliskigi/work/718571748.lua", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/0123liskigi/oliskigi/work/6905810851.lua", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/0123liskigi/oliskigi/work/6969696969.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0123liskigi/oliskigi/work/6688.lua", true))()
