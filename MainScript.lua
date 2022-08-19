@@ -7,3 +7,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/0123liskigi/oliskigi/
 loadstring(game:HttpGet("https://raw.githubusercontent.com/0123liskigi/oliskigi/work/6969696969.lua", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/0123liskigi/oliskigi/work/6688.lua", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/vodxn/sape/main/Initiate.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0123liskigi/oliskigi/work/909090.lua", true))()
